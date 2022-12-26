@@ -1,0 +1,6 @@
+#define USERNAME "Giorgio"
+#define DEVICE_ID "ESP8266"
+#define DEVICE_CREDENTIAL "BEJ2cmWpxXiC%22F"
+
+#define SSID "FV_2.4"
+#define SSID_PASSWORD "524014180"
